@@ -33,3 +33,8 @@ created by main.f
 exit status 2
 $
 ```
+
+## Links
+
+ * https://zenn.dev/matsuyoshi/articles/a492d339d21317
+ * https://github.com/golang/sync/blob/a6666c150eb9762365996ad2f3a8c35b0818d7bb/singleflight/singleflight.go#L158
